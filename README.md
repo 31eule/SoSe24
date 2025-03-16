@@ -23,4 +23,5 @@ Der Proband/die Probandin wird befragt und fehlende Daten z.B. Gewicht oder Grö
 Falsche Aussagen der Proband/innen oder falsche Messungen. Erneute Aufnahme der Daten 
 ## Hinweise	
 Keine 
-Änderungsgeschichte 	0.01; 16.03.2025; Katharina Schroeder, Sophia Nowotny, & Hannah Kleutgens
+## Änderungsgeschichte 	
+0.01; 16.03.2025; Katharina Schroeder, Sophia Nowotny, & Hannah Kleutgens
