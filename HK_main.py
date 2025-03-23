@@ -1,4 +1,4 @@
-from my_functions import estimate_max_hr, build_person, build_experiment
+from HK_my_functions import estimate_max_hr, build_person, build_experiment
 
 if __name__ == "__main__":
 
