@@ -1,5 +1,5 @@
 
-from my_functions import build_person, build_experiment
+from SN_my_functions import build_person, build_experiment
 
 if __name__ == "__main__":
     first_name = input("Vorname: ")
